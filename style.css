@@ -1,12 +1,20 @@
 .container{
     display: flex;
     height: 50px;
+    color:white
 }
 #passwordleak{
     text-align: center;
+    color:white;
 }
 #passwordleakkk{
     margin-left: 600px;
     width: 600px;
     height: 600px;
+}
+body{
+    background-color: rgb(55, 56, 56);
+}
+#colorme{
+    color:white;
 }
